@@ -1,0 +1,7 @@
+{
+  "name": "catalogo/peliculas-backend",
+  "require": {
+    "php": "^8.0",
+    "laravel/framework": "^10.0"
+  }
+}

@@ -1,0 +1,1 @@
+Agrega, ajusta y realiza tu primer commit: git init && git add . && git commit -m "Initial project scaffold"
